@@ -1,6 +1,6 @@
 # 📝 Neubrutalism Review Blog
 
-A responsive review blog built with HTML5 and CSS3, featuring a Neubrutalism-inspired design.
+A responsive review blog built with HTML5 and CSS, featuring a Neubrutalism-inspired design.
 
 ## 🎥 Demo
 
@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/ae2cd5a6-fa66-4207-88a3-cf7c5add5591
 ## 🛠️ Technologies Used
 
 * HTML5
-* CSS3
+* CSS
 * Responsive Design (Media Queries)
 * CSS Positioning
 * Hover Effects
